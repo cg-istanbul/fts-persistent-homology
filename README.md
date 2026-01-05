@@ -1,39 +1,33 @@
-# Finite Topological Spaces (FTS) Filtration and Persistence
+# Persistent Homology via Finite Topological Spaces (FTS)
 
-This repository implements a **finite-topological-space–based filtration** for point cloud data and computes homological invariants via **crosscut complexes**.
+This repository contains a **research prototype** implementing persistent homology via **finite topological spaces (FTS)**, as introduced in the paper
 
-The code accompanies ongoing research on persistence theory for finite topological spaces (FTS), providing a computational pipeline parallel to (but distinct from) Vietoris–Rips persistence.
+> **Persistent Homology via Finite Topological Spaces**  
+> arXiv:2512.23348  
+> https://arxiv.org/abs/2512.23348
+
+The code provides an alternative to classical Rips filtrations by constructing
+topologies, specialization posets, and crosscut complexes from finite metric data.
 
 ---
 
 ## Overview
 
-Given a finite metric space (e.g. a point cloud in Euclidean space), the pipeline:
+Given a finite point cloud \( X \subset \mathbb{R}^d \) and a scale parameter \( \alpha \),
 
-1. Constructs a family of **FTS topologies** parameterized by a scale parameter `α`
-2. Reduces each topology to its **T₀ quotient**
-3. Forms the associated **specialization poset**
-4. Builds the **crosscut complex** (2-skeleton)
-5. Computes **homology ranks** (β₀, β₁)
-6. Outputs a **barcode-like table** indexed by `α`
+1. We construct **Rips-like open sets** as maximal \( \alpha \)-cliques.
 
-Unlike classical persistent homology, the simplicial complexes here are **not nested by inclusion**, so homology is computed *independently at each scale*.
+2. These open sets generate a **finite topology** on \( X \).
 
----
+3. The topology is reduced to a **\(T_0\)-space** via Kolmogorov identification.
 
-## Mathematical Background (Informal)
+4. The resulting **specialization poset** is used to construct a **crosscut complex**.
 
-- Each scale `α` defines a family of open sets via **Rips-like maximal cliques**
-- These open sets generate a finite topology on the point set
-- T₀-identification collapses indistinguishable points
-- The specialization order defines a poset
-- The **crosscut complex** captures the homotopy type of the finite space
-- Homology of the crosscut complex represents the homology of the FTS
+5. Homology is computed on the **2-skeleton** of the crosscut complex.
 
-This construction supports:
-- Stability results (proved in the accompanying paper)
-- Local and global topological analysis
-- Extensions beyond Euclidean point clouds
+6. Repeating this over increasing \( \alpha \) yields a **persistent homology summary**.
+
+This approach naturally supports **local analysis** and **cycle localization**, which are harder to access in standard simplicial filtrations.
 
 ---
 
@@ -41,15 +35,14 @@ This construction supports:
 
 ```text
 .
-├── fts_basis.sage        # FTS construction, minimal basis, T0 quotient, crosscut
-├── homology.sage         # Homology computation via Sage
+├── fts_basis.sage        # FTS construction, minimal basis, T0 quotient, crosscut complex, homology computation
 ├── run_filtration.sage   # End-to-end example (filtration + table)
 ├── LICENSE
 └── README.md
 
 ---
 
-Requirements
+## Requirements
 
 - SageMath (tested with Sage ≥ 9.x)
 - Python packages (usually bundled with Sage):
@@ -61,50 +54,65 @@ sage run_filtration.sage
 
 ---
 
-## Example: Running a Filtration
+## Quick Start
 
-- The script run_filtration.sage demonstrates:
-- Synthetic datasets (e.g. blobs on a circle)
-- Automatic selection of α values
-- Computation of Betti numbers β₀ and β₁
+Run a complete filtration experiment on synthetic data:
 
-Typical output:
+- Generate a synthetic point cloud (e.g. blobs on a circle)
+
+- Construct FTS filtrations for multiple α-values
+
+- Compute β0 and β1
+
+- Output a barcode-like summary table
+
+Example output:
 
 === Persistent Homology Summary (FTS / Crosscut) ===
 alpha   | #V | #S | β0 | β1
 ---------------------------------------------
-0.3970  | 27 | 63 | 13 |  0
-1.7961  | 30 | 590|  1 |  1
+0.3970  | 26 |110 | 1  | 0
+1.7961  | 30 |590 | 1  | 1
+2.1459  | 30 |4525| 1  | 0
 
 ---
 
 ## Notes on Interpretation
 
-- The number of vertices corresponds to T₀-equivalence classes
-- Large α values may increase combinatorial complexity
-- The appearance of β₁ reflects nontrivial loops in the induced topology
-- Unlike Rips persistence, **support and localization of cycles** are meaningful and recoverable in FTS
+- The filtration **is not simplicial by inclusion**, so matrix-reduction-based persistent homology does not directly apply.
+
+- Homology is computed **one scale at a time**.
+
+- The appearance of β1 = 1 corresponds to **macroscopic cycles** emerging from overlapping finite open sets.
+
+- The framework naturally supports tracking the **support of homology classes** inside the finite space (future extension).
 
 ---
 
-## Future Directions
+## Status
 
-- Enriched barcodes tracking support of homology classes
-- Localized FTS persistence
-- Visualization tools
-- Extensions to general finite metric spaces
-- Comparison with Rips and Čech persistence
+⚠️ **Research prototype**
+
+- Code prioritizes clarity over performance
+
+- Not optimized for large datasets
+
+- API may change
+
+Contributions, experiments, and discussions are welcome.
 
 ---
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this code, please cite:
 
-**Selçuk Kayacan**,  
-*Persistent Homology via Finite Topological Spaces*,  
-arXiv:2512.23348 (2025).  
-https://arxiv.org/abs/2512.23348
+@article{FTS2025,
+  title={Persistent Homology via Finite Topological Spaces},
+  author={Kayacan, Selçuk},
+  journal={arXiv preprint arXiv:2512.23348},
+  year={2025}
+}
 
 ---
 
@@ -113,20 +121,7 @@ https://arxiv.org/abs/2512.23348
 This project is released under the **MIT License**.
 See the LICENSE file for details.
 
----
 
-## Disclaimer
-
-This is **experimental research code**.
-Interfaces and mathematical definitions may change as theory develops.
-
-Contributions, discussions, and feedback are welcome.
-
----
-
-## Authors
-
-Selçuk Kayacan
 
 
 
