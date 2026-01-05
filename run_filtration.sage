@@ -3,7 +3,6 @@
 import numpy as np
 
 load("fts_basis.sage")
-load("homology.sage")
 
 np.random.seed(0)
 
