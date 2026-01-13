@@ -1,91 +1,108 @@
+
 # Persistent Homology via Finite Topological Spaces (FTS)
 
-This repository contains a **research prototype** implementing persistent homology via **finite topological spaces (FTS)**, as introduced in the paper
+This repository contains a **research prototype** implementing persistent homology
+via **finite topological spaces (FTS)**, as introduced in the paper
 
 > **Persistent Homology via Finite Topological Spaces**  
+> Selçuk Kayacan  
 > arXiv:2512.23348  
 > https://arxiv.org/abs/2512.23348
 
-The code provides an alternative to classical Rips filtrations by constructing
-topologies, specialization posets, and crosscut complexes from finite metric data.
+The goal of this project is to provide an alternative viewpoint on persistent
+homology in which filtrations are built from **topologies on a fixed finite set**,
+rather than from nested simplicial complexes. The emphasis is on understanding
+**how dense regions of data interact across scales**, not on geometric shape
+reconstruction.
 
 ---
 
-## Overview
+## High-level description of the method
 
-Given a finite point cloud \( X \subset \mathbb{R}^d \) and a scale parameter \( \alpha \),
+Let (X,d) be a finite metric space.
 
-1. We construct **Rips-like open sets** as maximal \( \alpha \)-cliques.
+1. **Local density scale**  
+   Fix an integer `k_density = k`.  
+   For each point x ∈ X, let r_k(x) be the distance from x to its
+   k-th nearest neighbor. This determines a local scale at x.
 
-2. These open sets generate a **finite topology** on \( X \).
+2. **Dense points (anchors)**  
+   A simple density proxy is defined by  
+   ρ(x) = 1 / (r_k(x) + ε).  
+   For a threshold value τ, points with ρ(x) ≥ τ are regarded
+   as *dense* and are called **anchors**.
 
-3. The topology is reduced to a **\(T_0\)-space** via Kolmogorov identification.
+3. **Anchor neighborhoods**  
+   Each anchor a generates a neighborhood  
+   N(a) = { y ∈ X | d(a,y) ≤ λ r_k(a) },  
+   where `lambda` is a fixed expansion factor. These neighborhoods are adaptive:
+   their sizes depend on local density.
 
-4. The resulting **specialization poset** is used to construct a **crosscut complex**.
+4. **Finite topology**  
+   The anchor neighborhoods generate a topology on X. Points that are not covered
+   by any anchor neighborhood are handled by controlled fallback rules to avoid
+   degenerate behavior.
 
-5. Homology is computed on the **2-skeleton** of the crosscut complex.
+5. **Associated combinatorial complex**  
+   From the resulting finite topological space, a simplicial complex is built
+   (using maximal regions as vertices). Homology is computed on the 2-skeleton of
+   this complex.
 
-6. Repeating this over increasing \( \alpha \) yields a **persistent homology summary**.
+6. **Filtration**  
+   Repeating the above construction for a sequence of thresholds τ yields
+   a filtration of topologies  
+   T1 ⊇ T2 ⊇ ⋯ ⊇ Tm,  
+   and hence a persistence summary.
 
-This approach naturally supports **local analysis** and **cycle localization**, which are harder to access in standard simplicial filtrations.
 
 ---
 
-## Repository Structure
+## Interpreting the output tables
+
+Each example produces a table indexed by filtration level, displaying:
+
+- Betti numbers β0 and β1
+- The number of maximal regions
+- Basic combinatorial data of the associated complex
+- Diagnostic information on coverage and monotonicity
+
+
+---
+
+## Repository structure
 
 ```text
 .
-├── fts_basis.sage        # FTS construction, minimal basis, T0 quotient, crosscut complex, homology computation
-├── run_filtration.sage   # End-to-end example (filtration + table)
+├── fts_pipeline.sage
 ├── LICENSE
-└── README.md
+├── README.md
+└── examples/
+    ├── disjoint_clusters.sage
+    ├── figure8_blobs.sage
+    ├── six_blobs_on_circle.sage
+    ├── six_bumps_on_ring_band.sage
+    ├── tree_like_clusters.sage
+    ├── figures/
+    │   └── *.png
+    └── tables/
+        └── *.txt
+```
 
 ---
 
-## Requirements
+## Running the code
 
-- SageMath (tested with Sage ≥ 9.x)
-- Python packages (usually bundled with Sage):
-  - `numpy`
+All examples are run from the **root directory**.
 
-This code is intended to be run using:
+For example:
 ```bash
-sage run_filtration.sage
+sage examples/figure8_blobs.sage
+```
 
----
-
-## Quick Start
-
-Run a complete filtration experiment on synthetic data:
-
-- Generate a synthetic point cloud (e.g. blobs on a circle)
-
-- Construct FTS filtrations for multiple α-values
-
-- Compute β0 and β1
-
-- Output a barcode-like summary table
-
-Example output:
-
-=== Persistent Homology Summary (FTS / Crosscut) ===
-alpha   | #V | #S | β0 | β1
----------------------------------------------
-0.3970  | 26 |110 | 1  | 0
-1.7961  | 30 |590 | 1  | 1
-2.1459  | 30 |4525| 1  | 0
-
----
-
-## Notes on Interpretation
-
-- The filtration **is not simplicial by inclusion**, so matrix-reduction-based persistent homology does not directly apply.
-
-- Homology is computed **one scale at a time**.
-
-- The appearance of β1 = 1 corresponds to **macroscopic cycles** emerging from overlapping finite open sets.
-
-- The framework naturally supports tracking the **support of homology classes** inside the finite space (future extension).
+Each example:
+- generates a dataset plot (saved in `examples/figures/`),
+- runs the density-anchor filtration,
+- prints a summary table.
 
 ---
 
@@ -93,13 +110,9 @@ alpha   | #V | #S | β0 | β1
 
 ⚠️ **Research prototype**
 
-- Code prioritizes clarity over performance
-
-- Not optimized for large datasets
-
-- API may change
-
-Contributions, experiments, and discussions are welcome.
+- The code prioritizes clarity and mathematical structure over performance.
+- It is not optimized for large-scale data.
+- Parameter defaults reflect a conservative, density-driven interpretation.
 
 ---
 
@@ -107,24 +120,18 @@ Contributions, experiments, and discussions are welcome.
 
 If you use this code, please cite:
 
+```bibtex
 @article{FTS2025,
-  title={Persistent Homology via Finite Topological Spaces},
-  author={Kayacan, Selçuk},
-  journal={arXiv preprint arXiv:2512.23348},
-  year={2025}
+  title   = {Persistent Homology via Finite Topological Spaces},
+  author  = {Kayacan, Selçuk},
+  journal = {arXiv preprint arXiv:2512.23348},
+  year    = {2025}
 }
+```
 
 ---
 
 ## License
 
-This project is released under the **MIT License**.
+Released under the **MIT License**.
 See the LICENSE file for details.
-
-
-
-
-
-
-
-
