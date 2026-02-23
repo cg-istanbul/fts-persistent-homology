@@ -17,32 +17,32 @@ shape recovery.
 
 ## Conceptual overview
 
-Let \((X,d)\) be a finite metric space (typically a point cloud).
+Let $(X,d)$ be a finite metric space (typically a point cloud).
 
 Instead of building a filtration of **nested simplicial complexes**, we construct
 a filtration of **topologies on the same underlying set**:
 
-\[
+$$
 \mathcal T_1 \supseteq \mathcal T_2 \supseteq \dots \supseteq \mathcal T_m,
-\]
+$$
 
-where each topology is **coarser** than the previous one. The identity map on \(X\)
+where each topology is **coarser** than the previous one. The identity map on $X$
 is continuous
-\[
+$$
 (X,\mathcal T_i) \to (X,\mathcal T_j)\quad (i<j),
-\]
+$$
 which makes the construction **functorial**.
 
-For each topology \((X,\mathcal T_i)\):
+For each topology $(X,\mathcal T_i)$:
 
-1. Form the associated **\(T_0\)-space** by identifying points with identical
+1. Form the associated **$T_0$-space** by identifying points with identical
    minimal open neighborhoods.
-2. Encode the \(T_0\)-space as a **finite poset**, ordered by set inclusion of minimal open neighborhoods.
+2. Encode the $T_0$-space as a **finite poset**, ordered by set inclusion of minimal open neighborhoods.
 3. Build the **order complex** of this poset and compute homology on its
-   **2-skeleton** (sufficient for \(\beta_0\) and \(\beta_1\)).
+   **2-skeleton** (sufficient for $\beta_0$ and $\beta_1$).
 
 Although the simplicial complexes are **not nested**, the simplicial maps between
-steps are induced by the identity on \(X\), and the resulting persistence module is
+steps are induced by the identity on $X$, and the resulting persistence module is
 well-defined.
 
 ---
@@ -62,24 +62,24 @@ threshold changes.
 
 Fix an integer parameter `k_density = k`.
 
-For each point \(x\in X\), let \(r_k(x)\) be the distance from \(x\) to its
-\(k\)-th nearest neighbor. This defines a **local scale** at each point.
+For each point $x\in X$, let $r_k(x)$ be the distance from $x$ to its
+$k$-th nearest neighbor. This defines a **local scale** at each point.
 
 A simple density proxy is defined by
 
-\[
+$$
 \rho(x)=\frac{1}{r_k(x)+\varepsilon}.
-\]
+$$
 
 ### Anchors and neighborhoods
 
-For a threshold \(\tau\), points with \(\rho(x)\ge \tau\) are called **anchors**.
+For a threshold $\tau$, points with $\rho(x)\ge \tau$ are called **anchors**.
 
-Each anchor \(a\) generates a neighborhood
+Each anchor $a$ generates a neighborhood
 
-\[
+$$
 N(a)=\{y\in X \mid d(a,y)\le \lambda\cdot r_k(a)\},
-\]
+$$
 
 where `lambda_scale = λ > 1`.
 
@@ -96,11 +96,11 @@ The following parameters are explicitly used in the current code and appear in t
 tables:
 
 - `m` (int, ≥2): number of filtration steps.
-- `k_density` (int, ≥1): k-th nearest neighbor used to define \(r_k(\cdot)\).
-- `lambda_scale` (float, >1): neighborhood expansion factor \(\lambda\).
+- `k_density` (int, ≥1): k-th nearest neighbor used to define $r_k(\cdot)$.
+- `lambda_scale` (float, >1): neighborhood expansion factor $\lambda$.
 - `schedule` (string): threshold schedule (currently `"quantile"`).
-- `tau_q_start` (float in [0,1]): start quantile for \(\tau\).
-- `tau_q_end` (float in [0,1]): end quantile for \(\tau\).
+- `tau_q_start` (float in [0,1]): start quantile for $\tau$.
+- `tau_q_end` (float in [0,1]): end quantile for $\tau$.
 - `tau_q_exponent` (float ≥1): nonlinear spacing of quantiles.
 
 ---
@@ -111,7 +111,7 @@ This repository intentionally includes precomputed outputs so that readers can
 inspect results **without running anything**:
 
 - `examples/tables/*_tables.txt`  
-  Filtration summary tables (parameters + per-step diagnostics + \(\beta_0,\beta_1\)).
+  Filtration summary tables (parameters + per-step diagnostics + $\beta_0,\beta_1$).
 
 - `examples/barcodes/*.svg`  
   Rendered barcode plots.
@@ -200,22 +200,22 @@ Each table file contains:
   Density threshold at this step (printed as `-` at step 1).
 
 - **`β₀`**  
-  Number of connected components of the order-complex 2-skeleton \(K_i\).  
+  Number of connected components of the order-complex 2-skeleton $K_i$.  
   Interpretation: the number of **distinct interacting regions** at this density scale.
 
 - **`β₁`**  
-  Number of 1-dimensional homology classes of \(K_i\).  
+  Number of 1-dimensional homology classes of $K_i$.  
   Interpretation in this pipeline: **cyclic interaction patterns between regions**,
   not geometric holes in the ambient space.
 
 - **`cyc/vert`**  
-  Cycle density normalized by the number of vertices: \(\beta_1/|V|\).
+  Cycle density normalized by the number of vertices: $\beta_1/|V|$.
 
 - **`cyc/edge`**  
-  Cycle density normalized by the number of edges: \(\beta_1/|E|\).
+  Cycle density normalized by the number of edges: $\beta_1/|E|$.
 
 - **`anchors`**  
-  Number of anchors (points with \(\rho(x)\ge \tau\)).
+  Number of anchors (points with $\rho(x)\ge \tau$).
 
 - **`covered`**  
   Number of points covered by at least one anchor neighborhood.
@@ -224,18 +224,18 @@ Each table file contains:
   Number of points not covered by anchor neighborhoods (handled by fallback generators).
 
 - **`|V|`**  
-  Number of vertices of \(K_i\). These are the \(T_0\)-classes (poset elements).
+  Number of vertices of $K_i$. These are the $T_0$-classes (poset elements).
   This is expected to be **non-increasing** along the filtration.
 
 - **`|E|`**  
-  Number of edges in the 1-skeleton of \(K_i\).
+  Number of edges in the 1-skeleton of $K_i$.
 
 - **`|T|`**  
-  Number of triangles (2-simplices) in the 2-skeleton of \(K_i\).
+  Number of triangles (2-simplices) in the 2-skeleton of $K_i$.
 
 ### How to read β0 and β1 “persistence” here
 
-- **β₀ behavior**: regions merge as \(\tau\) increases (topologies coarsen).  
+- **β₀ behavior**: regions merge as $\tau$ increases (topologies coarsen).  
   Long-lived β₀ features indicate region separations that are stable across many
   density thresholds.
 
@@ -262,7 +262,7 @@ For each example and each dimension (β0 / β1) we provide:
 Each bar includes:
 
 - dimension (`dim`),
-- birth/death step and birth/death \(\tau\),
+- birth/death step and birth/death $\tau$,
 - `meta.birth` with dimension-specific metadata.
 
 For β0, `meta.birth` includes information such as component support size and a
