@@ -29,7 +29,7 @@ $$
 where each topology is **coarser** than the previous one. The identity map on $X$
 is continuous
 $$
-(X,\mathcal T_i) \to (X,\mathcal T_j)\quad (i<j),
+(X,\mathcal T_i) \to (X,\mathcal T_j)\quad\text{for } i<j
 $$
 which makes the construction **functorial**.
 
