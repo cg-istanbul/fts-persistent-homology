@@ -80,7 +80,7 @@ For a threshold $\tau$, points with $\rho(x)\ge \tau$ are called **anchors**.
 Each anchor $a$ generates a neighborhood
 
 $$
-N(a)=\{y\in X \mid d(a,y)\le \lambda\cdot r_k(a)\},
+N(a)=\lbrace y\in X \mid d(a,y)\le \lambda\cdot r_k(a)\rbrace
 $$
 
 where `lambda_scale = λ > 1`.
