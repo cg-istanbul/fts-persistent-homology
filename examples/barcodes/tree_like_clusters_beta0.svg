@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="250">
+<rect x="0" y="0" width="1620" height="250" fill="white"/>
+<text x="60" y="25" font-family="monospace" font-size="16">tree_like_clusters: β0 barcode</text>
+<line x1="60.0000000000000" y1="220" x2="1270.00000000000" y2="220" stroke="black" stroke-width="1"/>
+<text x="60.0000000000000" y="235" font-family="monospace" font-size="12">2.342</text>
+<text x="1240.00000000000" y="235" font-family="monospace" font-size="12">6.653</text>
+<line x1="60.00" y1="50.00" x2="1270.00" y2="50.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,50.00 1262.00,45.00 1262.00,55.00" fill="black"/>
+<text x="5" y="54" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="54" font-family="monospace" font-size="12">C/q=9/89  X=20 (14%)  repcls=12</text>
+<line x1="60.00" y1="70.00" x2="1270.00" y2="70.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,70.00 1262.00,65.00 1262.00,75.00" fill="black"/>
+<text x="5" y="74" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="74" font-family="monospace" font-size="12">C/q=11/89  X=20 (14%)  repcls=10</text>
+<line x1="60.00" y1="90.00" x2="1270.00" y2="90.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,90.00 1262.00,85.00 1262.00,95.00" fill="black"/>
+<text x="5" y="94" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="94" font-family="monospace" font-size="12">C/q=13/89  X=20 (14%)  repcls=9</text>
+<line x1="60.00" y1="110.00" x2="1270.00" y2="110.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,110.00 1262.00,105.00 1262.00,115.00" fill="black"/>
+<text x="5" y="114" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="114" font-family="monospace" font-size="12">C/q=13/89  X=20 (14%)  repcls=8</text>
+<line x1="60.00" y1="130.00" x2="1270.00" y2="130.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,130.00 1262.00,125.00 1262.00,135.00" fill="black"/>
+<text x="5" y="134" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="134" font-family="monospace" font-size="12">C/q=13/89  X=20 (14%)  repcls=11</text>
+<line x1="60.00" y1="150.00" x2="1270.00" y2="150.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,150.00 1262.00,145.00 1262.00,155.00" fill="black"/>
+<text x="5" y="154" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="154" font-family="monospace" font-size="12">C/q=15/89  X=20 (14%)  repcls=11</text>
+<line x1="60.00" y1="170.00" x2="1270.00" y2="170.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,170.00 1262.00,165.00 1262.00,175.00" fill="black"/>
+<text x="5" y="174" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="174" font-family="monospace" font-size="12">C/q=15/89  X=20 (14%)  repcls=5</text>
+</svg>

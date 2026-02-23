@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="790">
+<rect x="0" y="0" width="1620" height="790" fill="white"/>
+<text x="60" y="25" font-family="monospace" font-size="16">figure8_blobs: β0 barcode</text>
+<line x1="60.0000000000000" y1="760" x2="1270.00000000000" y2="760" stroke="black" stroke-width="1"/>
+<text x="60.0000000000000" y="775" font-family="monospace" font-size="12">0.957</text>
+<text x="1240.00000000000" y="775" font-family="monospace" font-size="12">3.396</text>
+<line x1="60.00" y1="50.00" x2="1270.00" y2="50.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,50.00 1262.00,45.00 1262.00,55.00" fill="black"/>
+<text x="5" y="54" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="54" font-family="monospace" font-size="12">C/q=7/106  X=11 (6.9%)  repcls=2</text>
+<line x1="60.00" y1="70.00" x2="1270.00" y2="70.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,70.00 1262.00,65.00 1262.00,75.00" fill="black"/>
+<text x="5" y="74" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="74" font-family="monospace" font-size="12">C/q=6/106  X=8 (5.0%)  repcls=2</text>
+<line x1="60.00" y1="90.00" x2="1270.00" y2="90.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,90.00 1262.00,85.00 1262.00,95.00" fill="black"/>
+<text x="5" y="94" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="94" font-family="monospace" font-size="12">C/q=12/106  X=18 (11%)  repcls=5</text>
+<line x1="60.00" y1="110.00" x2="1270.00" y2="110.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,110.00 1262.00,105.00 1262.00,115.00" fill="black"/>
+<text x="5" y="114" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="114" font-family="monospace" font-size="12">C/q=2/106  X=7 (4.4%)  repcls=7</text>
+<line x1="60.00" y1="130.00" x2="1270.00" y2="130.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,130.00 1262.00,125.00 1262.00,135.00" fill="black"/>
+<text x="5" y="134" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="134" font-family="monospace" font-size="12">C/q=3/106  X=7 (4.4%)  repcls=2</text>
+<line x1="60.00" y1="150.00" x2="1270.00" y2="150.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,150.00 1262.00,145.00 1262.00,155.00" fill="black"/>
+<text x="5" y="154" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="154" font-family="monospace" font-size="12">C/q=3/106  X=4 (2.5%)  repcls=3</text>
+<line x1="60.00" y1="170.00" x2="1270.00" y2="170.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,170.00 1262.00,165.00 1262.00,175.00" fill="black"/>
+<text x="5" y="174" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="174" font-family="monospace" font-size="12">C/q=5/106  X=10 (6.2%)  repcls=3</text>
+<line x1="60.00" y1="190.00" x2="519.69" y2="190.00" stroke="black" stroke-width="3"/>
+<line x1="519.69" y1="186.00" x2="519.69" y2="194.00" stroke="black" stroke-width="2"/>
+<text x="5" y="194" font-family="monospace" font-size="11">2→11</text>
+<text x="1280" y="194" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="210.00" x2="468.61" y2="210.00" stroke="black" stroke-width="3"/>
+<line x1="468.61" y1="206.00" x2="468.61" y2="214.00" stroke="black" stroke-width="2"/>
+<text x="5" y="214" font-family="monospace" font-size="11">2→10</text>
+<text x="1280" y="214" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="230.00" x2="468.61" y2="230.00" stroke="black" stroke-width="3"/>
+<line x1="468.61" y1="226.00" x2="468.61" y2="234.00" stroke="black" stroke-width="2"/>
+<text x="5" y="234" font-family="monospace" font-size="11">2→10</text>
+<text x="1280" y="234" font-family="monospace" font-size="12">C/q=3/106  X=3 (1.9%)  repcls=2</text>
+<line x1="60.00" y1="250.00" x2="417.53" y2="250.00" stroke="black" stroke-width="3"/>
+<line x1="417.53" y1="246.00" x2="417.53" y2="254.00" stroke="black" stroke-width="2"/>
+<text x="5" y="254" font-family="monospace" font-size="11">2→9</text>
+<text x="1280" y="254" font-family="monospace" font-size="12">C/q=4/106  X=8 (5.0%)  repcls=2</text>
+<line x1="60.00" y1="270.00" x2="366.46" y2="270.00" stroke="black" stroke-width="3"/>
+<line x1="366.46" y1="266.00" x2="366.46" y2="274.00" stroke="black" stroke-width="2"/>
+<text x="5" y="274" font-family="monospace" font-size="11">2→8</text>
+<text x="1280" y="274" font-family="monospace" font-size="12">C/q=7/106  X=13 (8.1%)  repcls=3</text>
+<line x1="60.00" y1="290.00" x2="366.46" y2="290.00" stroke="black" stroke-width="3"/>
+<line x1="366.46" y1="286.00" x2="366.46" y2="294.00" stroke="black" stroke-width="2"/>
+<text x="5" y="294" font-family="monospace" font-size="11">2→8</text>
+<text x="1280" y="294" font-family="monospace" font-size="12">C/q=3/106  X=3 (1.9%)  repcls=1</text>
+<line x1="60.00" y1="310.00" x2="315.38" y2="310.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="306.00" x2="315.38" y2="314.00" stroke="black" stroke-width="2"/>
+<text x="5" y="314" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="314" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="330.00" x2="315.38" y2="330.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="326.00" x2="315.38" y2="334.00" stroke="black" stroke-width="2"/>
+<text x="5" y="334" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="334" font-family="monospace" font-size="12">C/q=2/106  X=2 (1.2%)  repcls=1</text>
+<line x1="60.00" y1="350.00" x2="315.38" y2="350.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="346.00" x2="315.38" y2="354.00" stroke="black" stroke-width="2"/>
+<text x="5" y="354" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="354" font-family="monospace" font-size="12">C/q=2/106  X=2 (1.2%)  repcls=2</text>
+<line x1="60.00" y1="370.00" x2="315.38" y2="370.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="366.00" x2="315.38" y2="374.00" stroke="black" stroke-width="2"/>
+<text x="5" y="374" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="374" font-family="monospace" font-size="12">C/q=6/106  X=6 (3.8%)  repcls=2</text>
+<line x1="60.00" y1="390.00" x2="315.38" y2="390.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="386.00" x2="315.38" y2="394.00" stroke="black" stroke-width="2"/>
+<text x="5" y="394" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="394" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="410.00" x2="315.38" y2="410.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="406.00" x2="315.38" y2="414.00" stroke="black" stroke-width="2"/>
+<text x="5" y="414" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="414" font-family="monospace" font-size="12">C/q=2/106  X=2 (1.2%)  repcls=1</text>
+<line x1="60.00" y1="430.00" x2="315.38" y2="430.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="426.00" x2="315.38" y2="434.00" stroke="black" stroke-width="2"/>
+<text x="5" y="434" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="434" font-family="monospace" font-size="12">C/q=7/106  X=11 (6.9%)  repcls=9</text>
+<line x1="60.00" y1="450.00" x2="315.38" y2="450.00" stroke="black" stroke-width="3"/>
+<line x1="315.38" y1="446.00" x2="315.38" y2="454.00" stroke="black" stroke-width="2"/>
+<text x="5" y="454" font-family="monospace" font-size="11">2→7</text>
+<text x="1280" y="454" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="470.00" x2="264.31" y2="470.00" stroke="black" stroke-width="3"/>
+<line x1="264.31" y1="466.00" x2="264.31" y2="474.00" stroke="black" stroke-width="2"/>
+<text x="5" y="474" font-family="monospace" font-size="11">2→6</text>
+<text x="1280" y="474" font-family="monospace" font-size="12">C/q=1/106  X=2 (1.2%)  repcls=2</text>
+<line x1="60.00" y1="490.00" x2="264.31" y2="490.00" stroke="black" stroke-width="3"/>
+<line x1="264.31" y1="486.00" x2="264.31" y2="494.00" stroke="black" stroke-width="2"/>
+<text x="5" y="494" font-family="monospace" font-size="11">2→6</text>
+<text x="1280" y="494" font-family="monospace" font-size="12">C/q=1/106  X=3 (1.9%)  repcls=3</text>
+<line x1="60.00" y1="510.00" x2="264.31" y2="510.00" stroke="black" stroke-width="3"/>
+<line x1="264.31" y1="506.00" x2="264.31" y2="514.00" stroke="black" stroke-width="2"/>
+<text x="5" y="514" font-family="monospace" font-size="11">2→6</text>
+<text x="1280" y="514" font-family="monospace" font-size="12">C/q=2/106  X=2 (1.2%)  repcls=2</text>
+<line x1="60.00" y1="530.00" x2="264.31" y2="530.00" stroke="black" stroke-width="3"/>
+<line x1="264.31" y1="526.00" x2="264.31" y2="534.00" stroke="black" stroke-width="2"/>
+<text x="5" y="534" font-family="monospace" font-size="11">2→6</text>
+<text x="1280" y="534" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="550.00" x2="213.23" y2="550.00" stroke="black" stroke-width="3"/>
+<line x1="213.23" y1="546.00" x2="213.23" y2="554.00" stroke="black" stroke-width="2"/>
+<text x="5" y="554" font-family="monospace" font-size="11">2→5</text>
+<text x="1280" y="554" font-family="monospace" font-size="12">C/q=1/106  X=2 (1.2%)  repcls=2</text>
+<line x1="60.00" y1="570.00" x2="213.23" y2="570.00" stroke="black" stroke-width="3"/>
+<line x1="213.23" y1="566.00" x2="213.23" y2="574.00" stroke="black" stroke-width="2"/>
+<text x="5" y="574" font-family="monospace" font-size="11">2→5</text>
+<text x="1280" y="574" font-family="monospace" font-size="12">C/q=9/106  X=11 (6.9%)  repcls=6</text>
+<line x1="60.00" y1="590.00" x2="162.15" y2="590.00" stroke="black" stroke-width="3"/>
+<line x1="162.15" y1="586.00" x2="162.15" y2="594.00" stroke="black" stroke-width="2"/>
+<text x="5" y="594" font-family="monospace" font-size="11">2→4</text>
+<text x="1280" y="594" font-family="monospace" font-size="12">C/q=1/106  X=2 (1.2%)  repcls=2</text>
+<line x1="60.00" y1="610.00" x2="162.15" y2="610.00" stroke="black" stroke-width="3"/>
+<line x1="162.15" y1="606.00" x2="162.15" y2="614.00" stroke="black" stroke-width="2"/>
+<text x="5" y="614" font-family="monospace" font-size="11">2→4</text>
+<text x="1280" y="614" font-family="monospace" font-size="12">C/q=1/106  X=2 (1.2%)  repcls=2</text>
+<line x1="60.00" y1="630.00" x2="162.15" y2="630.00" stroke="black" stroke-width="3"/>
+<line x1="162.15" y1="626.00" x2="162.15" y2="634.00" stroke="black" stroke-width="2"/>
+<text x="5" y="634" font-family="monospace" font-size="11">2→4</text>
+<text x="1280" y="634" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="650.00" x2="162.15" y2="650.00" stroke="black" stroke-width="3"/>
+<line x1="162.15" y1="646.00" x2="162.15" y2="654.00" stroke="black" stroke-width="2"/>
+<text x="5" y="654" font-family="monospace" font-size="11">2→4</text>
+<text x="1280" y="654" font-family="monospace" font-size="12">C/q=1/106  X=1 (0.6%)  repcls=1</text>
+<line x1="60.00" y1="670.00" x2="162.15" y2="670.00" stroke="black" stroke-width="3"/>
+<line x1="162.15" y1="666.00" x2="162.15" y2="674.00" stroke="black" stroke-width="2"/>
+<text x="5" y="674" font-family="monospace" font-size="11">2→4</text>
+<text x="1280" y="674" font-family="monospace" font-size="12">C/q=2/106  X=3 (1.9%)  repcls=2</text>
+<line x1="60.00" y1="690.00" x2="111.08" y2="690.00" stroke="black" stroke-width="3"/>
+<line x1="111.08" y1="686.00" x2="111.08" y2="694.00" stroke="black" stroke-width="2"/>
+<text x="5" y="694" font-family="monospace" font-size="11">2→3</text>
+<text x="1280" y="694" font-family="monospace" font-size="12">C/q=3/106  X=3 (1.9%)  repcls=2</text>
+<line x1="60.00" y1="710.00" x2="111.08" y2="710.00" stroke="black" stroke-width="3"/>
+<line x1="111.08" y1="706.00" x2="111.08" y2="714.00" stroke="black" stroke-width="2"/>
+<text x="5" y="714" font-family="monospace" font-size="11">2→3</text>
+<text x="1280" y="714" font-family="monospace" font-size="12">C/q=3/106  X=7 (4.4%)  repcls=4</text>
+</svg>

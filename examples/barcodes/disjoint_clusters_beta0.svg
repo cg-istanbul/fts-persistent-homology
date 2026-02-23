@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="230">
+<rect x="0" y="0" width="1620" height="230" fill="white"/>
+<text x="60" y="25" font-family="monospace" font-size="16">disjoint_clusters: β0 barcode</text>
+<line x1="60.0000000000000" y1="200" x2="1270.00000000000" y2="200" stroke="black" stroke-width="1"/>
+<text x="60.0000000000000" y="215" font-family="monospace" font-size="12">2.868</text>
+<text x="1240.00000000000" y="215" font-family="monospace" font-size="12">8.765</text>
+<line x1="60.00" y1="50.00" x2="1270.00" y2="50.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,50.00 1262.00,45.00 1262.00,55.00" fill="black"/>
+<text x="5" y="54" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="54" font-family="monospace" font-size="12">C/q=14/142  X=15 (9.4%)  repcls=9</text>
+<line x1="60.00" y1="70.00" x2="1270.00" y2="70.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,70.00 1262.00,65.00 1262.00,75.00" fill="black"/>
+<text x="5" y="74" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="74" font-family="monospace" font-size="12">C/q=27/142  X=32 (20%)  repcls=5</text>
+<line x1="60.00" y1="90.00" x2="1270.00" y2="90.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,90.00 1262.00,85.00 1262.00,95.00" fill="black"/>
+<text x="5" y="94" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="94" font-family="monospace" font-size="12">C/q=27/142  X=32 (20%)  repcls=7</text>
+<line x1="60.00" y1="110.00" x2="1270.00" y2="110.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,110.00 1262.00,105.00 1262.00,115.00" fill="black"/>
+<text x="5" y="114" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="114" font-family="monospace" font-size="12">C/q=28/142  X=32 (20%)  repcls=8</text>
+<line x1="60.00" y1="130.00" x2="1270.00" y2="130.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,130.00 1262.00,125.00 1262.00,135.00" fill="black"/>
+<text x="5" y="134" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="134" font-family="monospace" font-size="12">C/q=31/142  X=32 (20%)  repcls=4</text>
+<line x1="60.00" y1="150.00" x2="264.31" y2="150.00" stroke="black" stroke-width="3"/>
+<line x1="264.31" y1="146.00" x2="264.31" y2="154.00" stroke="black" stroke-width="2"/>
+<text x="5" y="154" font-family="monospace" font-size="11">2→6</text>
+<text x="1280" y="154" font-family="monospace" font-size="12">C/q=15/142  X=17 (11%)  repcls=4</text>
+</svg>

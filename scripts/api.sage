@@ -1,0 +1,20 @@
+# scripts/api.sage
+
+load("scripts/report/outputs.sage")
+load("scripts/util/misc.sage")
+load("scripts/pipeline/validate.sage")
+load("scripts/report/tables.sage")
+load("scripts/report/viz.sage")
+load("scripts/report/mapper.sage")
+load("scripts/report/barcodes_svg.sage")
+load("scripts/report/barcodes_io.sage")
+load("scripts/topology/schedule.sage")
+load("scripts/topology/anchors.sage")
+load("scripts/topology/uncovered.sage")
+load("scripts/topology/basis.sage")
+load("scripts/topology/t0_poset.sage")
+load("scripts/topology/order_complex.sage")
+load("scripts/pipeline/filtration.sage")
+load("scripts/algebra/homology0.sage")
+load("scripts/algebra/homology1.sage")
+

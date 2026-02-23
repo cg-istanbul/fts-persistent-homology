@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="4110">
+<rect x="0" y="0" width="1620" height="4110" fill="white"/>
+<text x="60" y="25" font-family="monospace" font-size="16">paul15_n1000: β0 barcode</text>
+<line x1="60.0000000000000" y1="4080" x2="1270.00000000000" y2="4080" stroke="black" stroke-width="1"/>
+<text x="60.0000000000000" y="4095" font-family="monospace" font-size="12">0.090</text>
+<text x="1240.00000000000" y="4095" font-family="monospace" font-size="12">0.178</text>
+<line x1="60.00" y1="50.00" x2="1270.00" y2="50.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,50.00 1262.00,45.00 1262.00,55.00" fill="black"/>
+<text x="5" y="54" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="54" font-family="monospace" font-size="12">C/q=556/994  X=561 (56%)  repcls=1</text>
+<line x1="60.00" y1="70.00" x2="1270.00" y2="70.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,70.00 1262.00,65.00 1262.00,75.00" fill="black"/>
+<text x="5" y="74" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="74" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="90.00" x2="1270.00" y2="90.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,90.00 1262.00,85.00 1262.00,95.00" fill="black"/>
+<text x="5" y="94" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="94" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="110.00" x2="1270.00" y2="110.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,110.00 1262.00,105.00 1262.00,115.00" fill="black"/>
+<text x="5" y="114" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="114" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="130.00" x2="1270.00" y2="130.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,130.00 1262.00,125.00 1262.00,135.00" fill="black"/>
+<text x="5" y="134" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="134" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="150.00" x2="1270.00" y2="150.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,150.00 1262.00,145.00 1262.00,155.00" fill="black"/>
+<text x="5" y="154" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="154" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="170.00" x2="1270.00" y2="170.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,170.00 1262.00,165.00 1262.00,175.00" fill="black"/>
+<text x="5" y="174" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="174" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="190.00" x2="1270.00" y2="190.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,190.00 1262.00,185.00 1262.00,195.00" fill="black"/>
+<text x="5" y="194" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="194" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="210.00" x2="1270.00" y2="210.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,210.00 1262.00,205.00 1262.00,215.00" fill="black"/>
+<text x="5" y="214" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="214" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="230.00" x2="1270.00" y2="230.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,230.00 1262.00,225.00 1262.00,235.00" fill="black"/>
+<text x="5" y="234" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="234" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="250.00" x2="1270.00" y2="250.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,250.00 1262.00,245.00 1262.00,255.00" fill="black"/>
+<text x="5" y="254" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="254" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="270.00" x2="1270.00" y2="270.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,270.00 1262.00,265.00 1262.00,275.00" fill="black"/>
+<text x="5" y="274" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="274" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="290.00" x2="1270.00" y2="290.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,290.00 1262.00,285.00 1262.00,295.00" fill="black"/>
+<text x="5" y="294" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="294" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="310.00" x2="1270.00" y2="310.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,310.00 1262.00,305.00 1262.00,315.00" fill="black"/>
+<text x="5" y="314" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="314" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="330.00" x2="1270.00" y2="330.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,330.00 1262.00,325.00 1262.00,335.00" fill="black"/>
+<text x="5" y="334" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="334" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="350.00" x2="1270.00" y2="350.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,350.00 1262.00,345.00 1262.00,355.00" fill="black"/>
+<text x="5" y="354" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="354" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="370.00" x2="1270.00" y2="370.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,370.00 1262.00,365.00 1262.00,375.00" fill="black"/>
+<text x="5" y="374" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="374" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="390.00" x2="1270.00" y2="390.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,390.00 1262.00,385.00 1262.00,395.00" fill="black"/>
+<text x="5" y="394" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="394" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="410.00" x2="1270.00" y2="410.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,410.00 1262.00,405.00 1262.00,415.00" fill="black"/>
+<text x="5" y="414" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="414" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="430.00" x2="1270.00" y2="430.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,430.00 1262.00,425.00 1262.00,435.00" fill="black"/>
+<text x="5" y="434" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="434" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="450.00" x2="1270.00" y2="450.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,450.00 1262.00,445.00 1262.00,455.00" fill="black"/>
+<text x="5" y="454" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="454" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="470.00" x2="1270.00" y2="470.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,470.00 1262.00,465.00 1262.00,475.00" fill="black"/>
+<text x="5" y="474" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="474" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="490.00" x2="1270.00" y2="490.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,490.00 1262.00,485.00 1262.00,495.00" fill="black"/>
+<text x="5" y="494" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="494" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="510.00" x2="1270.00" y2="510.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,510.00 1262.00,505.00 1262.00,515.00" fill="black"/>
+<text x="5" y="514" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="514" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="530.00" x2="1270.00" y2="530.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,530.00 1262.00,525.00 1262.00,535.00" fill="black"/>
+<text x="5" y="534" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="534" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="550.00" x2="1270.00" y2="550.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,550.00 1262.00,545.00 1262.00,555.00" fill="black"/>
+<text x="5" y="554" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="554" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="570.00" x2="1270.00" y2="570.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,570.00 1262.00,565.00 1262.00,575.00" fill="black"/>
+<text x="5" y="574" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="574" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="590.00" x2="1270.00" y2="590.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,590.00 1262.00,585.00 1262.00,595.00" fill="black"/>
+<text x="5" y="594" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="594" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="610.00" x2="1270.00" y2="610.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,610.00 1262.00,605.00 1262.00,615.00" fill="black"/>
+<text x="5" y="614" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="614" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="630.00" x2="1270.00" y2="630.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,630.00 1262.00,625.00 1262.00,635.00" fill="black"/>
+<text x="5" y="634" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="634" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="650.00" x2="1270.00" y2="650.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,650.00 1262.00,645.00 1262.00,655.00" fill="black"/>
+<text x="5" y="654" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="654" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="670.00" x2="1270.00" y2="670.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,670.00 1262.00,665.00 1262.00,675.00" fill="black"/>
+<text x="5" y="674" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="674" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="690.00" x2="1270.00" y2="690.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,690.00 1262.00,685.00 1262.00,695.00" fill="black"/>
+<text x="5" y="694" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="694" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="710.00" x2="1270.00" y2="710.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,710.00 1262.00,705.00 1262.00,715.00" fill="black"/>
+<text x="5" y="714" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="714" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="730.00" x2="1270.00" y2="730.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,730.00 1262.00,725.00 1262.00,735.00" fill="black"/>
+<text x="5" y="734" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="734" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="750.00" x2="1270.00" y2="750.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,750.00 1262.00,745.00 1262.00,755.00" fill="black"/>
+<text x="5" y="754" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="754" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="770.00" x2="1270.00" y2="770.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,770.00 1262.00,765.00 1262.00,775.00" fill="black"/>
+<text x="5" y="774" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="774" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="790.00" x2="1270.00" y2="790.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,790.00 1262.00,785.00 1262.00,795.00" fill="black"/>
+<text x="5" y="794" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="794" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="810.00" x2="1270.00" y2="810.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,810.00 1262.00,805.00 1262.00,815.00" fill="black"/>
+<text x="5" y="814" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="814" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="830.00" x2="1270.00" y2="830.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,830.00 1262.00,825.00 1262.00,835.00" fill="black"/>
+<text x="5" y="834" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="834" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="850.00" x2="1270.00" y2="850.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,850.00 1262.00,845.00 1262.00,855.00" fill="black"/>
+<text x="5" y="854" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="854" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="870.00" x2="1270.00" y2="870.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,870.00 1262.00,865.00 1262.00,875.00" fill="black"/>
+<text x="5" y="874" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="874" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="890.00" x2="1270.00" y2="890.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,890.00 1262.00,885.00 1262.00,895.00" fill="black"/>
+<text x="5" y="894" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="894" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="910.00" x2="1270.00" y2="910.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,910.00 1262.00,905.00 1262.00,915.00" fill="black"/>
+<text x="5" y="914" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="914" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="930.00" x2="1270.00" y2="930.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,930.00 1262.00,925.00 1262.00,935.00" fill="black"/>
+<text x="5" y="934" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="934" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="950.00" x2="1270.00" y2="950.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,950.00 1262.00,945.00 1262.00,955.00" fill="black"/>
+<text x="5" y="954" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="954" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="970.00" x2="1270.00" y2="970.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,970.00 1262.00,965.00 1262.00,975.00" fill="black"/>
+<text x="5" y="974" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="974" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="990.00" x2="1270.00" y2="990.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,990.00 1262.00,985.00 1262.00,995.00" fill="black"/>
+<text x="5" y="994" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="994" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1010.00" x2="1270.00" y2="1010.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1010.00 1262.00,1005.00 1262.00,1015.00" fill="black"/>
+<text x="5" y="1014" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1014" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1030.00" x2="1270.00" y2="1030.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1030.00 1262.00,1025.00 1262.00,1035.00" fill="black"/>
+<text x="5" y="1034" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1034" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1050.00" x2="1270.00" y2="1050.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1050.00 1262.00,1045.00 1262.00,1055.00" fill="black"/>
+<text x="5" y="1054" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1054" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1070.00" x2="1270.00" y2="1070.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1070.00 1262.00,1065.00 1262.00,1075.00" fill="black"/>
+<text x="5" y="1074" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1074" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1090.00" x2="1270.00" y2="1090.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1090.00 1262.00,1085.00 1262.00,1095.00" fill="black"/>
+<text x="5" y="1094" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1094" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1110.00" x2="1270.00" y2="1110.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1110.00 1262.00,1105.00 1262.00,1115.00" fill="black"/>
+<text x="5" y="1114" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1114" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1130.00" x2="1270.00" y2="1130.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1130.00 1262.00,1125.00 1262.00,1135.00" fill="black"/>
+<text x="5" y="1134" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1134" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1150.00" x2="1270.00" y2="1150.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1150.00 1262.00,1145.00 1262.00,1155.00" fill="black"/>
+<text x="5" y="1154" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1154" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1170.00" x2="1270.00" y2="1170.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1170.00 1262.00,1165.00 1262.00,1175.00" fill="black"/>
+<text x="5" y="1174" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1174" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1190.00" x2="1270.00" y2="1190.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1190.00 1262.00,1185.00 1262.00,1195.00" fill="black"/>
+<text x="5" y="1194" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1194" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1210.00" x2="1270.00" y2="1210.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1210.00 1262.00,1205.00 1262.00,1215.00" fill="black"/>
+<text x="5" y="1214" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1214" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1230.00" x2="1270.00" y2="1230.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1230.00 1262.00,1225.00 1262.00,1235.00" fill="black"/>
+<text x="5" y="1234" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1234" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1250.00" x2="1270.00" y2="1250.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1250.00 1262.00,1245.00 1262.00,1255.00" fill="black"/>
+<text x="5" y="1254" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1254" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1270.00" x2="1270.00" y2="1270.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1270.00 1262.00,1265.00 1262.00,1275.00" fill="black"/>
+<text x="5" y="1274" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1274" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1290.00" x2="1270.00" y2="1290.00" stroke="black" stroke-width="3"/>
+<polygon points="1270.00,1290.00 1262.00,1285.00 1262.00,1295.00" fill="black"/>
+<text x="5" y="1294" font-family="monospace" font-size="11">2→∞</text>
+<text x="1280" y="1294" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1310.00" x2="1234.76" y2="1310.00" stroke="black" stroke-width="3"/>
+<line x1="1234.76" y1="1306.00" x2="1234.76" y2="1314.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1314" font-family="monospace" font-size="11">2→25</text>
+<text x="1280" y="1314" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1330.00" x2="1100.39" y2="1330.00" stroke="black" stroke-width="3"/>
+<line x1="1100.39" y1="1326.00" x2="1100.39" y2="1334.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1334" font-family="monospace" font-size="11">2→24</text>
+<text x="1280" y="1334" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1350.00" x2="1100.39" y2="1350.00" stroke="black" stroke-width="3"/>
+<line x1="1100.39" y1="1346.00" x2="1100.39" y2="1354.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1354" font-family="monospace" font-size="11">2→24</text>
+<text x="1280" y="1354" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1370.00" x2="1100.39" y2="1370.00" stroke="black" stroke-width="3"/>
+<line x1="1100.39" y1="1366.00" x2="1100.39" y2="1374.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1374" font-family="monospace" font-size="11">2→24</text>
+<text x="1280" y="1374" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1390.00" x2="1003.79" y2="1390.00" stroke="black" stroke-width="3"/>
+<line x1="1003.79" y1="1386.00" x2="1003.79" y2="1394.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1394" font-family="monospace" font-size="11">2→23</text>
+<text x="1280" y="1394" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1410.00" x2="1003.79" y2="1410.00" stroke="black" stroke-width="3"/>
+<line x1="1003.79" y1="1406.00" x2="1003.79" y2="1414.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1414" font-family="monospace" font-size="11">2→23</text>
+<text x="1280" y="1414" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1430.00" x2="1003.79" y2="1430.00" stroke="black" stroke-width="3"/>
+<line x1="1003.79" y1="1426.00" x2="1003.79" y2="1434.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1434" font-family="monospace" font-size="11">2→23</text>
+<text x="1280" y="1434" font-family="monospace" font-size="12">C/q=2/994  X=2 (0.2%)  repcls=2</text>
+<line x1="60.00" y1="1450.00" x2="1003.79" y2="1450.00" stroke="black" stroke-width="3"/>
+<line x1="1003.79" y1="1446.00" x2="1003.79" y2="1454.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1454" font-family="monospace" font-size="11">2→23</text>
+<text x="1280" y="1454" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1470.00" x2="1003.79" y2="1470.00" stroke="black" stroke-width="3"/>
+<line x1="1003.79" y1="1466.00" x2="1003.79" y2="1474.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1474" font-family="monospace" font-size="11">2→23</text>
+<text x="1280" y="1474" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1490.00" x2="931.78" y2="1490.00" stroke="black" stroke-width="3"/>
+<line x1="931.78" y1="1486.00" x2="931.78" y2="1494.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1494" font-family="monospace" font-size="11">2→22</text>
+<text x="1280" y="1494" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1510.00" x2="931.78" y2="1510.00" stroke="black" stroke-width="3"/>
+<line x1="931.78" y1="1506.00" x2="931.78" y2="1514.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1514" font-family="monospace" font-size="11">2→22</text>
+<text x="1280" y="1514" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1530.00" x2="931.78" y2="1530.00" stroke="black" stroke-width="3"/>
+<line x1="931.78" y1="1526.00" x2="931.78" y2="1534.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1534" font-family="monospace" font-size="11">2→22</text>
+<text x="1280" y="1534" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1550.00" x2="931.78" y2="1550.00" stroke="black" stroke-width="3"/>
+<line x1="931.78" y1="1546.00" x2="931.78" y2="1554.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1554" font-family="monospace" font-size="11">2→22</text>
+<text x="1280" y="1554" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1570.00" x2="931.78" y2="1570.00" stroke="black" stroke-width="3"/>
+<line x1="931.78" y1="1566.00" x2="931.78" y2="1574.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1574" font-family="monospace" font-size="11">2→22</text>
+<text x="1280" y="1574" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1590.00" x2="877.34" y2="1590.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1586.00" x2="877.34" y2="1594.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1594" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1594" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1610.00" x2="877.34" y2="1610.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1606.00" x2="877.34" y2="1614.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1614" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1614" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1630.00" x2="877.34" y2="1630.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1626.00" x2="877.34" y2="1634.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1634" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1634" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1650.00" x2="877.34" y2="1650.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1646.00" x2="877.34" y2="1654.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1654" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1654" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1670.00" x2="877.34" y2="1670.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1666.00" x2="877.34" y2="1674.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1674" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1674" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1690.00" x2="877.34" y2="1690.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1686.00" x2="877.34" y2="1694.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1694" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1694" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1710.00" x2="877.34" y2="1710.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1706.00" x2="877.34" y2="1714.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1714" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1714" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1730.00" x2="877.34" y2="1730.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1726.00" x2="877.34" y2="1734.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1734" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1734" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1750.00" x2="877.34" y2="1750.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1746.00" x2="877.34" y2="1754.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1754" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1754" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1770.00" x2="877.34" y2="1770.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1766.00" x2="877.34" y2="1774.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1774" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1774" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1790.00" x2="877.34" y2="1790.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1786.00" x2="877.34" y2="1794.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1794" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1794" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1810.00" x2="877.34" y2="1810.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1806.00" x2="877.34" y2="1814.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1814" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1814" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1830.00" x2="877.34" y2="1830.00" stroke="black" stroke-width="3"/>
+<line x1="877.34" y1="1826.00" x2="877.34" y2="1834.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1834" font-family="monospace" font-size="11">2→21</text>
+<text x="1280" y="1834" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1850.00" x2="820.10" y2="1850.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1846.00" x2="820.10" y2="1854.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1854" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1854" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1870.00" x2="820.10" y2="1870.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1866.00" x2="820.10" y2="1874.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1874" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1874" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1890.00" x2="820.10" y2="1890.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1886.00" x2="820.10" y2="1894.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1894" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1894" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1910.00" x2="820.10" y2="1910.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1906.00" x2="820.10" y2="1914.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1914" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1914" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1930.00" x2="820.10" y2="1930.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1926.00" x2="820.10" y2="1934.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1934" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1934" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1950.00" x2="820.10" y2="1950.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1946.00" x2="820.10" y2="1954.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1954" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1954" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1970.00" x2="820.10" y2="1970.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1966.00" x2="820.10" y2="1974.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1974" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1974" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="1990.00" x2="820.10" y2="1990.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="1986.00" x2="820.10" y2="1994.00" stroke="black" stroke-width="2"/>
+<text x="5" y="1994" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="1994" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2010.00" x2="820.10" y2="2010.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="2006.00" x2="820.10" y2="2014.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2014" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="2014" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2030.00" x2="820.10" y2="2030.00" stroke="black" stroke-width="3"/>
+<line x1="820.10" y1="2026.00" x2="820.10" y2="2034.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2034" font-family="monospace" font-size="11">2→20</text>
+<text x="1280" y="2034" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2050.00" x2="776.62" y2="2050.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2046.00" x2="776.62" y2="2054.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2054" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2054" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2070.00" x2="776.62" y2="2070.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2066.00" x2="776.62" y2="2074.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2074" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2074" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2090.00" x2="776.62" y2="2090.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2086.00" x2="776.62" y2="2094.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2094" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2094" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2110.00" x2="776.62" y2="2110.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2106.00" x2="776.62" y2="2114.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2114" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2114" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2130.00" x2="776.62" y2="2130.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2126.00" x2="776.62" y2="2134.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2134" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2134" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2150.00" x2="776.62" y2="2150.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2146.00" x2="776.62" y2="2154.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2154" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2154" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2170.00" x2="776.62" y2="2170.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2166.00" x2="776.62" y2="2174.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2174" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2174" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2190.00" x2="776.62" y2="2190.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2186.00" x2="776.62" y2="2194.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2194" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2194" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2210.00" x2="776.62" y2="2210.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2206.00" x2="776.62" y2="2214.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2214" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2214" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2230.00" x2="776.62" y2="2230.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2226.00" x2="776.62" y2="2234.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2234" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2234" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2250.00" x2="776.62" y2="2250.00" stroke="black" stroke-width="3"/>
+<line x1="776.62" y1="2246.00" x2="776.62" y2="2254.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2254" font-family="monospace" font-size="11">2→19</text>
+<text x="1280" y="2254" font-family="monospace" font-size="12">C/q=2/994  X=2 (0.2%)  repcls=2</text>
+<line x1="60.00" y1="2270.00" x2="730.74" y2="2270.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2266.00" x2="730.74" y2="2274.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2274" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2274" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2290.00" x2="730.74" y2="2290.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2286.00" x2="730.74" y2="2294.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2294" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2294" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2310.00" x2="730.74" y2="2310.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2306.00" x2="730.74" y2="2314.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2314" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2314" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2330.00" x2="730.74" y2="2330.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2326.00" x2="730.74" y2="2334.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2334" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2334" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2350.00" x2="730.74" y2="2350.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2346.00" x2="730.74" y2="2354.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2354" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2354" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2370.00" x2="730.74" y2="2370.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2366.00" x2="730.74" y2="2374.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2374" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2374" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2390.00" x2="730.74" y2="2390.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2386.00" x2="730.74" y2="2394.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2394" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2394" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2410.00" x2="730.74" y2="2410.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2406.00" x2="730.74" y2="2414.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2414" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2414" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2430.00" x2="730.74" y2="2430.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2426.00" x2="730.74" y2="2434.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2434" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2434" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2450.00" x2="730.74" y2="2450.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2446.00" x2="730.74" y2="2454.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2454" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2454" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2470.00" x2="730.74" y2="2470.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2466.00" x2="730.74" y2="2474.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2474" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2474" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2490.00" x2="730.74" y2="2490.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2486.00" x2="730.74" y2="2494.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2494" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2494" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2510.00" x2="730.74" y2="2510.00" stroke="black" stroke-width="3"/>
+<line x1="730.74" y1="2506.00" x2="730.74" y2="2514.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2514" font-family="monospace" font-size="11">2→18</text>
+<text x="1280" y="2514" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2530.00" x2="685.68" y2="2530.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2526.00" x2="685.68" y2="2534.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2534" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2534" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2550.00" x2="685.68" y2="2550.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2546.00" x2="685.68" y2="2554.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2554" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2554" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2570.00" x2="685.68" y2="2570.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2566.00" x2="685.68" y2="2574.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2574" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2574" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2590.00" x2="685.68" y2="2590.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2586.00" x2="685.68" y2="2594.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2594" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2594" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2610.00" x2="685.68" y2="2610.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2606.00" x2="685.68" y2="2614.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2614" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2614" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2630.00" x2="685.68" y2="2630.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2626.00" x2="685.68" y2="2634.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2634" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2634" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2650.00" x2="685.68" y2="2650.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2646.00" x2="685.68" y2="2654.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2654" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2654" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2670.00" x2="685.68" y2="2670.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2666.00" x2="685.68" y2="2674.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2674" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2674" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2690.00" x2="685.68" y2="2690.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2686.00" x2="685.68" y2="2694.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2694" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2694" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2710.00" x2="685.68" y2="2710.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2706.00" x2="685.68" y2="2714.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2714" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2714" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2730.00" x2="685.68" y2="2730.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2726.00" x2="685.68" y2="2734.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2734" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2734" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2750.00" x2="685.68" y2="2750.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2746.00" x2="685.68" y2="2754.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2754" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2754" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2770.00" x2="685.68" y2="2770.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2766.00" x2="685.68" y2="2774.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2774" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2774" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2790.00" x2="685.68" y2="2790.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2786.00" x2="685.68" y2="2794.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2794" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2794" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2810.00" x2="685.68" y2="2810.00" stroke="black" stroke-width="3"/>
+<line x1="685.68" y1="2806.00" x2="685.68" y2="2814.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2814" font-family="monospace" font-size="11">2→17</text>
+<text x="1280" y="2814" font-family="monospace" font-size="12">C/q=2/994  X=2 (0.2%)  repcls=1</text>
+<line x1="60.00" y1="2830.00" x2="644.52" y2="2830.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2826.00" x2="644.52" y2="2834.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2834" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2834" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2850.00" x2="644.52" y2="2850.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2846.00" x2="644.52" y2="2854.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2854" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2854" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2870.00" x2="644.52" y2="2870.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2866.00" x2="644.52" y2="2874.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2874" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2874" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2890.00" x2="644.52" y2="2890.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2886.00" x2="644.52" y2="2894.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2894" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2894" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2910.00" x2="644.52" y2="2910.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2906.00" x2="644.52" y2="2914.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2914" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2914" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2930.00" x2="644.52" y2="2930.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2926.00" x2="644.52" y2="2934.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2934" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2934" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2950.00" x2="644.52" y2="2950.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2946.00" x2="644.52" y2="2954.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2954" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2954" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2970.00" x2="644.52" y2="2970.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2966.00" x2="644.52" y2="2974.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2974" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2974" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="2990.00" x2="644.52" y2="2990.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="2986.00" x2="644.52" y2="2994.00" stroke="black" stroke-width="2"/>
+<text x="5" y="2994" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="2994" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3010.00" x2="644.52" y2="3010.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3006.00" x2="644.52" y2="3014.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3014" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3014" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3030.00" x2="644.52" y2="3030.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3026.00" x2="644.52" y2="3034.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3034" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3034" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3050.00" x2="644.52" y2="3050.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3046.00" x2="644.52" y2="3054.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3054" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3054" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3070.00" x2="644.52" y2="3070.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3066.00" x2="644.52" y2="3074.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3074" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3074" font-family="monospace" font-size="12">C/q=5/994  X=6 (0.6%)  repcls=3</text>
+<line x1="60.00" y1="3090.00" x2="644.52" y2="3090.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3086.00" x2="644.52" y2="3094.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3094" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3094" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3110.00" x2="644.52" y2="3110.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3106.00" x2="644.52" y2="3114.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3114" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3114" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3130.00" x2="644.52" y2="3130.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3126.00" x2="644.52" y2="3134.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3134" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3134" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3150.00" x2="644.52" y2="3150.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3146.00" x2="644.52" y2="3154.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3154" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3154" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3170.00" x2="644.52" y2="3170.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3166.00" x2="644.52" y2="3174.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3174" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3174" font-family="monospace" font-size="12">C/q=2/994  X=2 (0.2%)  repcls=1</text>
+<line x1="60.00" y1="3190.00" x2="644.52" y2="3190.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3186.00" x2="644.52" y2="3194.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3194" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3194" font-family="monospace" font-size="12">C/q=2/994  X=2 (0.2%)  repcls=1</text>
+<line x1="60.00" y1="3210.00" x2="644.52" y2="3210.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3206.00" x2="644.52" y2="3214.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3214" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3214" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3230.00" x2="644.52" y2="3230.00" stroke="black" stroke-width="3"/>
+<line x1="644.52" y1="3226.00" x2="644.52" y2="3234.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3234" font-family="monospace" font-size="11">2→16</text>
+<text x="1280" y="3234" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3250.00" x2="600.03" y2="3250.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3246.00" x2="600.03" y2="3254.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3254" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3254" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3270.00" x2="600.03" y2="3270.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3266.00" x2="600.03" y2="3274.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3274" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3274" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3290.00" x2="600.03" y2="3290.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3286.00" x2="600.03" y2="3294.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3294" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3294" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3310.00" x2="600.03" y2="3310.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3306.00" x2="600.03" y2="3314.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3314" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3314" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3330.00" x2="600.03" y2="3330.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3326.00" x2="600.03" y2="3334.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3334" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3334" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3350.00" x2="600.03" y2="3350.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3346.00" x2="600.03" y2="3354.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3354" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3354" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3370.00" x2="600.03" y2="3370.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3366.00" x2="600.03" y2="3374.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3374" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3374" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3390.00" x2="600.03" y2="3390.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3386.00" x2="600.03" y2="3394.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3394" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3394" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3410.00" x2="600.03" y2="3410.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3406.00" x2="600.03" y2="3414.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3414" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3414" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3430.00" x2="600.03" y2="3430.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3426.00" x2="600.03" y2="3434.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3434" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3434" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3450.00" x2="600.03" y2="3450.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3446.00" x2="600.03" y2="3454.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3454" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3454" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3470.00" x2="600.03" y2="3470.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3466.00" x2="600.03" y2="3474.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3474" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3474" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3490.00" x2="600.03" y2="3490.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3486.00" x2="600.03" y2="3494.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3494" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3494" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3510.00" x2="600.03" y2="3510.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3506.00" x2="600.03" y2="3514.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3514" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3514" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3530.00" x2="600.03" y2="3530.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3526.00" x2="600.03" y2="3534.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3534" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3534" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3550.00" x2="600.03" y2="3550.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3546.00" x2="600.03" y2="3554.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3554" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3554" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3570.00" x2="600.03" y2="3570.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3566.00" x2="600.03" y2="3574.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3574" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3574" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3590.00" x2="600.03" y2="3590.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3586.00" x2="600.03" y2="3594.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3594" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3594" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3610.00" x2="600.03" y2="3610.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3606.00" x2="600.03" y2="3614.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3614" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3614" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3630.00" x2="600.03" y2="3630.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3626.00" x2="600.03" y2="3634.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3634" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3634" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3650.00" x2="600.03" y2="3650.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3646.00" x2="600.03" y2="3654.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3654" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3654" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3670.00" x2="600.03" y2="3670.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3666.00" x2="600.03" y2="3674.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3674" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3674" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3690.00" x2="600.03" y2="3690.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3686.00" x2="600.03" y2="3694.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3694" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3694" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3710.00" x2="600.03" y2="3710.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3706.00" x2="600.03" y2="3714.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3714" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3714" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3730.00" x2="600.03" y2="3730.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3726.00" x2="600.03" y2="3734.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3734" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3734" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3750.00" x2="600.03" y2="3750.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3746.00" x2="600.03" y2="3754.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3754" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3754" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3770.00" x2="600.03" y2="3770.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3766.00" x2="600.03" y2="3774.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3774" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3774" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3790.00" x2="600.03" y2="3790.00" stroke="black" stroke-width="3"/>
+<line x1="600.03" y1="3786.00" x2="600.03" y2="3794.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3794" font-family="monospace" font-size="11">2→15</text>
+<text x="1280" y="3794" font-family="monospace" font-size="12">C/q=2/994  X=2 (0.2%)  repcls=1</text>
+<line x1="60.00" y1="3810.00" x2="554.18" y2="3810.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3806.00" x2="554.18" y2="3814.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3814" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3814" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3830.00" x2="554.18" y2="3830.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3826.00" x2="554.18" y2="3834.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3834" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3834" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3850.00" x2="554.18" y2="3850.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3846.00" x2="554.18" y2="3854.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3854" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3854" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3870.00" x2="554.18" y2="3870.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3866.00" x2="554.18" y2="3874.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3874" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3874" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3890.00" x2="554.18" y2="3890.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3886.00" x2="554.18" y2="3894.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3894" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3894" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3910.00" x2="554.18" y2="3910.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3906.00" x2="554.18" y2="3914.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3914" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3914" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3930.00" x2="554.18" y2="3930.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3926.00" x2="554.18" y2="3934.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3934" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3934" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3950.00" x2="554.18" y2="3950.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3946.00" x2="554.18" y2="3954.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3954" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3954" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3970.00" x2="554.18" y2="3970.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3966.00" x2="554.18" y2="3974.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3974" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3974" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="3990.00" x2="554.18" y2="3990.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="3986.00" x2="554.18" y2="3994.00" stroke="black" stroke-width="2"/>
+<text x="5" y="3994" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="3994" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="4010.00" x2="554.18" y2="4010.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="4006.00" x2="554.18" y2="4014.00" stroke="black" stroke-width="2"/>
+<text x="5" y="4014" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="4014" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+<line x1="60.00" y1="4030.00" x2="554.18" y2="4030.00" stroke="black" stroke-width="3"/>
+<line x1="554.18" y1="4026.00" x2="554.18" y2="4034.00" stroke="black" stroke-width="2"/>
+<text x="5" y="4034" font-family="monospace" font-size="11">2→14</text>
+<text x="1280" y="4034" font-family="monospace" font-size="12">C/q=1/994  X=1 (0.1%)  repcls=1</text>
+</svg>

@@ -1,0 +1,12 @@
+# datasets / local data
+data/
+
+# caches
+__pycache__/
+*.pyc
+*.sage.py
+
+# editor/OS
+.DS_Store
+*~
+.vscode/
